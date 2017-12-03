@@ -8,6 +8,7 @@ public class FBLogin {
 		
 		ChromeDriver driver= new ChromeDriver();
 		driver.get("https://mvnrepository.com");
+		System.out.println("open App");
 
 	}
 
